@@ -1,0 +1,21 @@
+@import "colors.scss";
+i{
+    display:block;
+}
+.icon-heart{
+    width:59px;
+    height: 53px;
+    background:url(../images/icon-heart.png);
+}
+.icon-settings{
+    width:128px;
+    height:128px;
+    border:4px solid $darkgreen;
+    border-radius: 50%;
+    background:url(../images/icon-settings.png) no-repeat center center;
+}
+.icon-star{
+    width:95px;
+    height:95px;
+    background:url(../images/icon-star.png);
+}
